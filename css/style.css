@@ -2,15 +2,11 @@ body {
   background-color: #000;
 }
 
+button {
+  color: #f1f1f1;
+  border-radius: 2px;
+}
+
 .link {
-  color: red;
-}
-.link:hover {
-  color: blue;
-}
-.link-active {
-  text-decoration: none;
-}
-.link-active-visited {
-  color: black;
+  color: #f1f1f1;
 }/*# sourceMappingURL=style.css.map */
