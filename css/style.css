@@ -1,4 +1,16 @@
 body {
-  background-color: #fff;
+  background-color: #000;
+}
+
+.link {
   color: red;
-} /*# sourceMappingURL=style.css.map */
+}
+.link:hover {
+  color: blue;
+}
+.link-active {
+  text-decoration: none;
+}
+.link-active-visited {
+  color: black;
+}/*# sourceMappingURL=style.css.map */
